@@ -7,7 +7,7 @@
       "root": "",
       "sourceRoot": "src",
       "projectType": "application",
-      "prefix": "app",
+      "prefix": "our-colony",
       "schematics": {
         "@schematics/angular:component": {
           "style": "scss"
