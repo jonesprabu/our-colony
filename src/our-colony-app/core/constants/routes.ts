@@ -2,7 +2,7 @@
 export enum AppRoutes {
   Layout = '',
   Home = 'home',
-  Pay = 'pay',
+  Pay = 'payments',
   Neighbours = 'neighbours',
   Committee = 'committee',
   SignOut = 'sign-out',
